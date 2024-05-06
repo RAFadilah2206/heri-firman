@@ -1,0 +1,2 @@
+# heri-firman
+TUGAS BASIS DATA PERTEMUAN KE 8
