@@ -1,4 +1,4 @@
-# PRAKTIKUM 2 BASIS DATA
+# PRAKTIKUM 2 DATA BASE
 # 1. Tampilkan semua record tabel
 ![327658381-e4179815-32d9-437f-a0d4-74a94124941c](https://github.com/firman00009999/heri-firman/assets/148558300/3df55edf-541e-4001-91a9-42076fe9abf2)
 # 2. Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi: 1979-08-31!
@@ -17,10 +17,5 @@ perempuan!
 ![7](https://github.com/firman00009999/heri-firman/assets/148558300/c589a6ee-8689-445c-a8c2-cb7928d6f074)
 # 8. Tampilkan data nama dan alamat mahasiswa saja dari tabel tersebut
 ![8](https://github.com/firman00009999/heri-firman/assets/148558300/c64ed929-41e1-4a29-a8ce-42eb3b58382a)
-
-
-
-
-
-
+# 9. Tampilkan data mahasiswa terurut berdasarkan nama
 ![9](https://github.com/firman00009999/heri-firman/assets/148558300/eeba0d1b-f0bd-452f-bd04-543aa40ea40c)
