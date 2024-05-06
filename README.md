@@ -8,8 +8,7 @@ nama Ari saja!
 ![3](https://github.com/firman00009999/heri-firman/assets/148558300/50c63ee4-9c31-4a77-ac76-d95d3f833c46)
 # 4. Hapus Mahasiswa yang bernama Dina!
 ![4](https://github.com/firman00009999/heri-firman/assets/148558300/746373e3-49eb-4a64-bcaf-aaa387856048)
-# 5. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama
-dengan 1996-1-2!
+# 5. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama dengan 1996-1-2!
 ![5](https://github.com/firman00009999/heri-firman/assets/148558300/6a387b3c-8c6f-4f3c-8a05-8d3c920b0300)
 # 6. Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin
 perempuan!
